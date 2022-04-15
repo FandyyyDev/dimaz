@@ -30,8 +30,8 @@ handler.tags = ['game']
 handler.command = /^susunkata$/i
 
 module.exports = handler
-let wm = global.botwm
+let wem = global.botwm
 
 module.exports = handler
 
-let wm = global.botwm
+let wem = global.botwm
