@@ -32,7 +32,7 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@adiwajshing/baileys": "github:BochilGaming/Baileys#fix",
+    "@adiwajshing/baileys": "^3.5.3",
     "@bochilteam/scraper": "^0.0.7",
     "awesome-phonenumber": "^2.65.0",
     "axios": "^0.21.1",
