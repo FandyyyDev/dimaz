@@ -33,5 +33,3 @@ module.exports = handler
 let wem = global.botwm
 
 module.exports = handler
-
-let wem = global.botwm
